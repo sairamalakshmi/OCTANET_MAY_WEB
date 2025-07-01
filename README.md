@@ -36,25 +36,6 @@ A sleek, minimalist To-Do List application with full local storage support.
 
 ---
 
-## 📂 Folder Structure
-
-OCTANET_MAY_WEB/
-├── index.html # Main page with links to both projects
-├── landingpage2/ # Fashion landing page
-│ ├── index.html
-│ ├── style.css
-│ ├── main.js
-│ ├── fashion_1.jpg
-│ └── logo.png
-├── todolist/ # To-do list app
-│ ├── index.html
-│ ├── style.css
-│ ├── main.js
-│ ├── background.jpg
-│ └── empty.svg
-
----
-
 ## 💡 How to Use
 
 1. Click the live links above or visit [sairamalakshmi.github.io/OCTANET_MAY_WEB](https://sairamalakshmi.github.io/OCTANET_MAY_WEB/)
